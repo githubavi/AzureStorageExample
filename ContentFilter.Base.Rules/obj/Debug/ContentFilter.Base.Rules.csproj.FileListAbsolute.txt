@@ -1,0 +1,11 @@
+E:\Sapient Work\SampleApps\MVCCoreAPI2\ContentFilter.Base.Rules\obj\Debug\ContentFilter.Base.Rules.csprojResolveAssemblyReference.cache
+E:\Sapient Work\SampleApps\MVCCoreAPI2\ContentFilter.Base.Rules\bin\Debug\ContentFilter.R1.Rules.dll
+E:\Sapient Work\SampleApps\MVCCoreAPI2\ContentFilter.Base.Rules\bin\Debug\ContentFilter.R1.Rules.pdb
+E:\Sapient Work\SampleApps\MVCCoreAPI2\ContentFilter.Base.Rules\bin\Debug\RulesCommon.dll
+E:\Sapient Work\SampleApps\MVCCoreAPI2\ContentFilter.Base.Rules\bin\Debug\RulesCommon.pdb
+E:\Sapient Work\SampleApps\MVCCoreAPI2\RuleProcessingJob\RulesCatalog\ContentFilter.Base.Rules.dll
+E:\Sapient Work\SampleApps\MVCCoreAPI2\RuleProcessingJob\RulesCatalog\ContentFilter.Base.Rules.pdb
+E:\Sapient Work\SampleApps\MVCCoreAPI2\ContentFilter.Base.Rules\obj\Debug\ContentFilter.Base.Rules.dll
+E:\Sapient Work\SampleApps\MVCCoreAPI2\ContentFilter.Base.Rules\obj\Debug\ContentFilter.Base.Rules.pdb
+E:\Sapient Work\SampleApps\MVCCoreAPI2\RuleProcessingJob\bin\Debug\RulesCatalog\ContentFilter.Base.Rules.dll
+E:\Sapient Work\SampleApps\MVCCoreAPI2\RuleProcessingJob\bin\Debug\RulesCatalog\ContentFilter.Base.Rules.pdb

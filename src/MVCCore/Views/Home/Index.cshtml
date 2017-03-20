@@ -1,0 +1,21 @@
+﻿@model MVCCore.Models.Error 
+
+@{
+    ViewData["Title"] = "Error Page";
+}
+
+<div class="jumbotron">
+    <h1>Home</h1>
+</div>
+@if (Model != null && Model.Message!= null)
+{
+<div class="row">
+    <h4>Error!!</h4>
+    <div class="col-md-4">
+        <h2>@Model.Message</h2>
+        <p>
+            Please contact your System Administrator
+        </p>
+    </div>
+</div>
+}

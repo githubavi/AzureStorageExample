@@ -1,0 +1,4 @@
+E:\Sapient Work\SampleApps\MVCCoreAPI2\RulesCommon\bin\Debug\RulesCommon.dll
+E:\Sapient Work\SampleApps\MVCCoreAPI2\RulesCommon\bin\Debug\RulesCommon.pdb
+E:\Sapient Work\SampleApps\MVCCoreAPI2\RulesCommon\obj\Debug\RulesCommon.dll
+E:\Sapient Work\SampleApps\MVCCoreAPI2\RulesCommon\obj\Debug\RulesCommon.pdb
